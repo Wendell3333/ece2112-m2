@@ -61,4 +61,4 @@ C. ABOVE-MEAN SQUARES PROBLEM
 
 Grabs any number greater than S_mean from the S array.
 
-This problem combines many ideas and techniques from the other two problems; explaining further would just be a repeat of explanations. 
+This problem combines many ideas and techniques from the other two problems, leaving no unique codes to explain. 
